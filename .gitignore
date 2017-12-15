@@ -1,0 +1,12 @@
+.pioenvs
+.piolibdeps
+.vscode/c_cpp_properties.json
+lib/readme.txt
+Workspace Config File.code-workspace
+.vscode/launch.json
+.vscode/settings.json
+.travis.yml
+Workspace Config File.code-workspace
+.vscode/launch.json
+.vscode/settings.json
+lib/readme.txt
